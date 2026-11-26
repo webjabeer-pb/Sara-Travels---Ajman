@@ -1,0 +1,7 @@
+{
+  "name": "SARA TRAVELS - Premium Travel Agency",
+  "description": "Professional travel agency in Ajman, UAE. Offering worldwide flight bookings, visa services, Umrah packages, and customized holiday experiences.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

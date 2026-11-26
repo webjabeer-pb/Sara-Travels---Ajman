@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0e3f6e" />
+      <stop offset="100%" stop-color="#1E73BE" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="20" y1="24" x2="108" y2="104" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4fd1d9" />
+      <stop offset="100%" stop-color="#38b2ac" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="32" fill="url(#bgGrad)" />
+  <path
+    d="M84 30H48C33.6 30 24 38.4 24 49.5C24 60.4 33 66.2 49.5 68.5L68.5 71.2C77 72.5 80.5 75.2 80.5 79.8C80.5 85 74.5 88 64.5 88H30L24 100H68C87.5 100 100 90.2 100 77.2C100 65.2 90.2 58.6 72 56L54 53.5C45.5 52.2 42 49.8 42 45.8C42 41.2 47 38.5 55.5 38.5H80L84 30Z"
+    fill="url(#accentGrad)"
+  />
+  <path
+    d="M36 53L56 49L74 34L70 50L86 55L71 60L62 72L58 58L36 53Z"
+    fill="#FFFFFF"
+  />
+  <circle cx="98" cy="30" r="7" fill="#FF8C32" />
+</svg>
